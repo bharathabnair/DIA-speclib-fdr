@@ -1,0 +1,19 @@
+# Local input data and generated analysis output
+data/
+output/
+results/
+
+# R session files
+.Rhistory
+.RData
+.Ruserdata
+
+# Python and Jupyter caches
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Editor and operating-system files
+.DS_Store
+*.swp
+*~
